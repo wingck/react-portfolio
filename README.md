@@ -1,4 +1,4 @@
-# react-profile
+# react-portfolio
 
 Deployed page: https://mysite-two-taupe.vercel.app/
 
