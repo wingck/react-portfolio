@@ -39,7 +39,7 @@ li a:-webkit-any-link{
     margin: 0 15%;
 }
 .project-subblock{
-    border: 1px solid black;
+    border: 8px solid rgb(77, 14, 14);
     margin-right: 20px;
     padding-left: 40px;
     margin-top: 20px;
