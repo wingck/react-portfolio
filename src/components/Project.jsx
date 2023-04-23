@@ -14,6 +14,7 @@ useEffect(() => {
 return (
     <div>
        <main id="main">
+        <h1 class="title">Project</h1>
         <div class="project-block">
         {project.map(item => (
           <div key={item.id} class="project-subblock">
